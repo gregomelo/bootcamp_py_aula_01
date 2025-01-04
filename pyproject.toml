@@ -1,0 +1,15 @@
+[tool.poetry]
+name = "bootcamp-py-aula-01"
+version = "0.1.0"
+description = "Jornada de Dados. Bootcamp Python. Aula 01."
+authors = ["Greg Oliveira <gregoryomelo@gmail.com>"]
+license = "MIT"
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.13"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
